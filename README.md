@@ -1,5 +1,4 @@
 # FRIservice - Fire Risk Indication REST-based web service
-REST web service for firerisk indication
 
 The code is available in an Eclipse-project. 
 
